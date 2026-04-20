@@ -24,7 +24,7 @@ Bu proje %100 Native Android altyapısı kullanılarak modern teknolojilerle in�
 
 ## 📸 Ekran Görüntüleri
 
-*(Buraya kendi uygulamanın ekran görüntülerini ekleyebilirsin)*
+
 
 | Süre Seçim Ekranı (Zen Mod) | Kilit ve Geri Sayım Ekranı |
 | :---: | :---: |
